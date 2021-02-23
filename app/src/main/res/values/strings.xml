@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="higher_txt">Higher</string>
+    <string name="lower_txt">Lower</string>
+    <string name="user_txt">User Dice</string>
+    <string name="computer_txt">Computer Dice</string>
+    <string name="vs_txt">VS</string>
+    <string name="result"></string>
+</resources>
